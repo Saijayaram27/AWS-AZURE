@@ -1,0 +1,7 @@
+services:
+ devserver:
+   branch: dev
+ qaserver:
+   branch: qa
+ prodserver:
+   branch:prod
